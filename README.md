@@ -10,12 +10,8 @@
 
 Я постоянно стремлюсь к обучению и самосовершенствованию, читаю технические книги и блоги. Я готов к новым вызовам и постоянно ищу возможности для роста и развития своих навыков.
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=max-tkv&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=max-tkv&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/max-tkv/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-tkv&layout=compact"/></a>
-</p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=max-tkv)](https://github.com/max-tkv/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-tkv&layout=compact)](https://github.com/max-tkv/github-readme-stats)
 
 <p align='center'>
    <a href="https://t.me/max_tkv_dev">
