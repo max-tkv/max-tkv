@@ -10,7 +10,7 @@
 использованием методологий **Agile** и **Scrum**.
 
 Я также имею опыт в создании и интеграции **RESTful API**, а также использования различных инструментов для тестирования
-кода, таких как **NUnit** и **xUnit**.
+кода, таких как **xUnit**, **Moq** и **Postman**.
 
 Я постоянно стремлюсь к обучению и самосовершенствованию, читаю технические книги и блоги. Я готов к новым вызовам и
 постоянно ищу возможности для роста и развития своих навыков.
@@ -24,6 +24,7 @@
 * C# / ASP.NET Core / ASP.NET MVC
 * MySQL, PostgreSQL, Entity Framework
 * CI/CD, TeamCity, OpenShift, Vault, Redis, RabbitMQ, Kafka, Instana, SonarQube, Kibana
+* xUnit, NUnit, Moq, Postman, Swagger
 * Camunda, Camunda Cockpit, Camunda Modeler
 * Scrum, Atlassian Jira, Miro
 * GitHub / GitLab / Bitbucket
