@@ -26,9 +26,3 @@
    <a href="https://t.me/max_tkv_dev">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/max-tkv/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=max-tkv&color=DE002D">
-   </a>
-</div>
