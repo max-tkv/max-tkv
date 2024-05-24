@@ -18,11 +18,9 @@
 * Scrum, Atlassian Jira, Miro
 * GitHub / GitLab / Bitbucket
 
-<p align='center'>
-   📫 Как связаться со мной: <a href='mailto:max.tkv.official@gmail.com'>max.tkv.official@gmail.com
-</a>
-</p>
+
 <p align='center'>
    <a href="https://t.me/max_tkv_dev">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+</p>
