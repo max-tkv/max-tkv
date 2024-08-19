@@ -1,6 +1,6 @@
-# Привет, меня зовут Максим 👋
+# Hi 👋
 
-Я **C# / .NET Developer** с более чем 5-летним коммерческим опытом.
+**C# / .NET Developer**
 
 [//]: # ([![Anurag's github stats]&#40;https://github-readme-stats.vercel.app/api?username=max-tkv&#41;]&#40;https://github.com/max-tkv/github-readme-stats&#41;  )
 
